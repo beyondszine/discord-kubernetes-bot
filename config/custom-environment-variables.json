@@ -1,0 +1,9 @@
+{
+    "Discord" :{
+        "config" :{
+            "prefix": "!",
+            "discordBotKey" : "DISCORD_BOT_KEY",
+            "channelID" : "CHANNEL_ID"
+        }
+    }
+}

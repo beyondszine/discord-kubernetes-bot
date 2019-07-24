@@ -1,0 +1,16 @@
+{
+  "name": "discord-apitest",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "config": "^3.2.2",
+    "discord.js": "github:discordjs/discord.js",
+    "node-opus": "^0.3.2"
+  }
+}
