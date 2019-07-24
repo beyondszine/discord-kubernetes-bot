@@ -35,8 +35,7 @@
     const args = msg.content.slice(prefix.length).split(/ +/);
     debug("list of args seperated by space",args);
 
-    const command = args.shift().toLowerCase();
-    debug(command);
+    const command = args.shift().toLowerCase(); // first word that accompanies the prefix.
 
     if (!client.commands.has(command)) return;
 

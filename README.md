@@ -9,9 +9,7 @@
     
     ![Discord Bot Reponse](imgs/discord_resp.png)
     
-
-    
-
 ## TODO
-- Deisgn in a way that bot takes commands in same way as kubectl on command line works.
-- Mapping of kubectl commands to API.
+- Deisgn options that bot takes commands in same way as kubectl on command line works.
+- Mapping of kubectl commands to APIs.
+- Formatting of response wrt current discord.
