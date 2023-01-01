@@ -10,7 +10,7 @@
   "license": "ISC",
   "dependencies": {
     "kubernetes-client": "^8.3.3",
-    "config": "^3.2.2",
+    "config": "^3.3.8",
     "discord.js": "github:discordjs/discord.js",
     "discord.js-commando": "^0.10.0",
     "node-opus": "^0.3.2"
